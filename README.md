@@ -16,6 +16,28 @@ Lucas Porto de Andrade
 ### Comitê
 1.	Consultar Relatório de Medalhas: Acessa os relatórios para avaliar o desempenho geral dos países durante as Olimpíadas.
 
+## Casos de Uso
+<img width="500px" height="500px" src="https://github.com/LucasPorto18/SGO/blob/main/imagens/Captura%20de%20tela%202025-03-30%20234210.png
+"/>
+
+## Diagrama de Classes
+<img width="500px" height="500px" src="https://github.com/LucasPorto18/SGO/blob/main/imagens/Captura%20de%20tela%202025-03-30%20234327.png"/>
+
+## Diagrama de Pacotes
+<img width="500px" height="500px" src="https://github.com/LucasPorto18/SGO/blob/main/imagens/Captura%20de%20tela%202025-03-30%20235244.png"/>
+
+## Diagrama de Componentes
+
+<img width="500px" height="500px" src="https://github.com/LucasPorto18/SGO/blob/main/imagens/Captura%20de%20tela%202025-03-31%20034408.png"/>
+
+## Diagrama de Implantação
+
+<img width="500px" height="500px" src="https://github.com/LucasPorto18/SGO/blob/main/imagens/Captura%20de%20tela%202025-03-31%20034607.png"/>
+
+
+
+
+
 
 
 
