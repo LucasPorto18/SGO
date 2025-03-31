@@ -17,9 +17,11 @@ Descrição: Gera um relatório com o desempenho de cada país, com base nas med
 
 ### Atleta
 1.	Inscrever-se em Competição
+   
 Descrição: Permite ao atleta realizar sua inscrição em uma ou mais competições, representando um país por modalidade.
 ### Comitê
 1.	Consultar Relatório de Medalhas
+   
 Descrição: Acessa os relatórios para avaliar o desempenho geral dos países durante as Olimpíadas.
 
 
