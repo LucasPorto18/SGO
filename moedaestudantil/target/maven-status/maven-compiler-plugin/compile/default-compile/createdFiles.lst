@@ -1,0 +1,8 @@
+com\merito\moedaestudantil\dto\InstituicaoDTO.class
+com\merito\moedaestudantil\model\Instituicao.class
+com\merito\moedaestudantil\service\InstituicaoService.class
+com\merito\moedaestudantil\MoedaEstudantilApplication.class
+com\merito\moedaestudantil\model\Professor.class
+com\merito\moedaestudantil\controller\InstituicaoController.class
+com\merito\moedaestudantil\dto\ProfessorDTO.class
+com\merito\moedaestudantil\repository\InstituicaoRepository.class
